@@ -1,21 +1,32 @@
 # Hi there 👋 I'm Onjee Kim
 
 ## Technologies
-|                | Proficient                                                                       | Knowledgeable                                 |
-|----------------|----------------------------------------------------------------------------------|-----------------------------------------------|
-| Language       | Java(11,17)                                                                      | Python                                        |
-| Backend        | Spring(mvc, webflux, security)<br> Spring Cloud(gateway, config, eureka)<br> JPA | GraphQl                                       |
-| Database       | Postgresql, Redis                                                                | Elastic Search                                |
-| Ops/Cloud      | aws(ec2, s3, lambda)                                                             | Docker, Ubuntu                                |
-| DataProcessing | Kafka                                                                            | Hadoop<br> Spark<br> Airflow<br> Logstash<br> |
+
+|  | Proficient | Knowledgeable |
+| --- | --- | --- |
+| Language | Java(11,17), Python |  |
+| Backend | Spring(mvc, webflux, security)
+Spring Cloud(gateway, config, eureka)
+JPA |  |
+| Big Data | Kafka | Hadoop, Spark
+Logstash, Kafka Connect, Kibana |
+| Database | Postgresql, Redis | Elastic Search |
+| Ops/Cloud | aws(ec2, s3, lambda, route53), Ubuntu, Docker, Ansible |  |
 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=#FFF"/> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 
+## Side Project
+- [MSA 여행 서비스](https://github.com/onjik/Managed-Travel-Service)
+- [위치추적모듈 saas](https://github.com/onjik/team_project_location_tracking_saas_module)
+- [유튜브 클론프로젝트#인코딩 서버](https://github.com/onjik/LAGACY-webflux-hls-video-streaming-server)
+
 ## Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=on5949)](https://velog.io/@on5949)
 - [Postgresql 의 MVCC, Vacuum에 대해 알아보자](https://velog.io/@on5949/Postgresql-%EC%9D%98-MVCC-Vacuum%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 - [스프링 시큐리티 필터체인 심화](https://velog.io/@on5949/SpringSecurity-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0-%ED%95%84%ED%84%B0-%EC%B2%B4%EC%9D%B8-%EC%8B%AC%ED%99%94)
 - [이거 모르면 MethodSecurity 쓰지마세요](https://velog.io/@on5949/%EC%9D%B4%EA%B1%B0-%EB%AA%A8%EB%A5%B4%EB%A9%B4-Method-Security-%EC%93%B0%EC%A7%80%EB%A7%88-%EC%84%B8%EC%9A%94)
+
+## Books
+- [독서리스트 약 12권](https://github.com/onjik/onjik/blob/main/books.md)
 
 ## Opensource
 ### spring-framework
