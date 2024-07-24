@@ -1,17 +1,36 @@
-# Hi there 👋 I'm Onjee Kim
+![image](https://github.com/user-attachments/assets/0f5db96c-1d54-41a9-943f-391cca36461f)# Hi there 👋 I'm Onjee Kim
 
 ## Technologies
 
-|  | Proficient | Knowledgeable |
-| --- | --- | --- |
-| Language | Java(11,17), Python |  |
-| Backend | Spring(mvc, webflux, security)
-Spring Cloud(gateway, config, eureka)
-JPA |  |
-| Big Data | Kafka | Hadoop, Spark
-Logstash, Kafka Connect, Kibana |
-| Database | Postgresql, Redis | Elastic Search |
-| Ops/Cloud | aws(ec2, s3, lambda, route53), Ubuntu, Docker, Ansible |  |
+| 기술            | 이해 수준                                                         |
+|----------------|-------------------------------------------------------------------|
+| Language       | Java(11,17)                                                       |
+|                | - Stream, Thread, Java Reflection, Annotation Processor 활용 가능  |
+|                | - 최신 문법(~ 21)에 대한 이해                                      |
+|                | - Junit, AssertJ 기반 테스트 코드 작성 가능                        |
+| Backend        | Spring                                                            |
+|                | - mvc, webflux 기반 REST, 웹 소켓, GraphQl API 개발 가능           |
+|                | - Spring Security 소스코드 수준의 이해. 인증, 인가 개발 가능       |
+|                | - Spring Cloud 기반의 MSA 서버 개발 가능 (gateway, config, eureka) |
+|                | - AOP, Async, Event, 빈 생명주기, AutoConfiguration 활용 가능      |
+|                | JPA(Hibernate)                                                    |
+|                | - n+1 문제를 고려 하며 엔티티 설계 가능                           |
+|                | Http                                                              |
+|                | - 쿠키, cors, 캐시, 멱등성, etag, conditional request에 대한 이해  |
+|                | - API 명세서 문서화 가능                                           |
+| Database       | SQL                                                               |
+|                | - ERD 설계 가능                                                   |
+|                | - view, index 활용 가능                                            |
+|                | - 집계 문법(group by, having, with as, join) 활용 가능             |
+|                | Postgresql                                                        |
+|                | - MVCC, Vacuum 에 대한 이해                                       |
+|                | ELK                                                               |
+|                | - 인덱스 매핑, 대시보드 구축 가능                                 |
+|                | Kafka                                                             |
+|                | - 리밸런싱, 컨슈머 그룹, 정합성 보장 수준에 대한 이해              |
+|                | Redis, Hadoop, Spark                                              |
+| DevOps         | AWS(ec2, s3, lambda, elb), Docker, Ansible, Ubuntu                |
+
 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=#FFF"/> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 
