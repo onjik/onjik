@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0f5db96c-1d54-41a9-943f-391cca36461f)# Hi there 👋 I'm Onjee Kim
+# Hi there 👋 I'm Onjee Kim
 
 ## Technologies
 
